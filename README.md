@@ -72,10 +72,10 @@ http://localhost:8080/loginpage
 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](images/login.png)
+![Login Page](images/Login.png)
 
 ### 📝 Register Page
-![Register Page](images/register.png)
+![Register Page](images/Register.png)
 
 ### 📊 Dashboard
 ![Dashboard](images/dashboard.png)
