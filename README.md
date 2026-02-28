@@ -129,7 +129,9 @@ EmployeeManagementApplication.java
 Server starts at:
 
 http://localhost:8080/loginpage
-🔐 Authentication Flow
+```
+
+##🔐 Authentication Flow
 
 User Registration with validation
 
@@ -139,7 +141,7 @@ Username uniqueness verification
 
 Backend password validation
 
-📊 Learning Outcomes
+##📊 Learning Outcomes
 
 This project demonstrates practical understanding of:
 
@@ -158,7 +160,7 @@ Database Connectivity
 Backend Authentication Logic
 
 
-⭐ Future Enhancements
+##⭐ Future Enhancements
 
 Spring Security Integration
 
@@ -168,6 +170,6 @@ REST API Version
 
 Cloud Deployment (AWS / Render)
 
-📜 License
+##📜 License
 
 This project is developed for learning and academic purposes.
